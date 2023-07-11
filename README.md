@@ -14,7 +14,6 @@
 👀 I have a keen interest in the following areas:
 - Analog Design
 - Digital Electronics
-- VLSI (Very Large Scale Integration)
 
 ### Current Learning
 🌱 Currently, I am exploring my interests in analog design and VLSI. I am dedicated to expanding my knowledge and skills in these domains.
