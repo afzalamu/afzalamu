@@ -16,7 +16,7 @@
 - Digital Electronics
 
 ### Current Learning
-🌱 Currently, I am exploring my interests in analog design and VLSI. I am dedicated to expanding my knowledge and skills in these domains.
+🌱 Currently, I am exploring my interests in analog design . I am dedicated to expanding my knowledge and skills in these domains.
 
 ### Collaboration
 💞️ I am looking to collaborate with individuals who share similar interests in analog design and VLSI. If you are working in these areas or have a project related to them, I would be excited to collaborate and contribute.
