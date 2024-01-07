@@ -22,7 +22,7 @@
 ### Contact Information
 📫 You can reach me through the following channels:
 - Email: afzalmalik68099@gmail.com
-- LinkedIn: [linkedin.com/in/afzalmalik68099](www.linkedin.com/in/malik-afzal)
+- LinkedIn: [linkedin.com/in/malik-afzal](www.linkedin.com/in/malik-afzal)
 
 Feel free to contact me via email or LinkedIn. I am open to discussions, collaboration opportunities, or any inquiries related to my interests. I look forward to connecting with like-minded individuals and exploring exciting projects together!
 
