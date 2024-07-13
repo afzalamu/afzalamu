@@ -48,9 +48,10 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
     VIL, and the switching threshold, with its layout using Electric Binary.
   - **Tools Used:** LT Spice, Electric Binary.
 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-afzal)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:afzalamalik68099@gmail.com)
 
 
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/affzzll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-afzal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@MidnightEngineer) 
 
