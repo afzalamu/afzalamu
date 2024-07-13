@@ -1,34 +1,7 @@
 # Hello, I'm Afzal Malik.👋
 Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems. My interests lie in both the analog and digital domains of VLSI, where I continually strive to innovate and improve.
 
-## 🛠️ Skills, Technologies & Tools
-[![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue?logo=cadence)](#)
-[![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-blue?logo=xilinx)](#)
-[![Verilog HDL](https://img.shields.io/badge/Verilog-HDL-blue?logo=verilog)](#)
-[![LT Spice](https://img.shields.io/badge/LT-Spice-blue?logo=ltspice)](#)
-[![Electric VLSI](https://img.shields.io/badge/Electric-VLSI-blue?logo=electric)](#)
-[![Circuit Design](https://img.shields.io/badge/Circuit-Design-blue?logo=design)](#)
-[![FPGA](https://img.shields.io/badge/FPGA-blue?logo=fpga)](#)
-[![OPENLANE](https://img.shields.io/badge/OPENLANE-blue?logo=openlane)](#)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](#)
-[![C Programming](https://img.shields.io/badge/C-Programming-blue?logo=c)](#)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-blue?logo=microsoft)](#)
-
-## Skills & Technologies
-
-[![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue?logo=cadence)](#)
-[![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-orange?logo=xilinx)](#)
-[![Verilog HDL](https://img.shields.io/badge/Verilog-HDL-green?logo=verilog)](#)
-[![LT Spice](https://img.shields.io/badge/LT-Spice-red?logo=ltspice)](#)
-[![Electric VLSI](https://img.shields.io/badge/Electric-VLSI-purple?logo=electric)](#)
-[![Circuit Design](https://img.shields.io/badge/Circuit-Design-yellow?logo=design)](#)
-[![FPGA](https://img.shields.io/badge/FPGA-blue?logo=fpga)](#)
-[![OPENLANE](https://img.shields.io/badge/OPENLANE-lightblue?logo=openlane)](#)
-[![Python](https://img.shields.io/badge/Python-green?logo=python)](#)
-[![C Programming](https://img.shields.io/badge/C-Programming-orange?logo=c)](#)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-yellow?logo=microsoft)](#)
-
-## Skills, Tools & Technologies
+## 🖥️ Skills, Tools & Technologies
 
 [![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue?logo=cadence)](#)
 [![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-orange?logo=xilinx)](#)
