@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
   - **Tools Used:** LT Spice, Analog Designer Toolbox (ADT), Electric Binary.
   
 
-- [**Design and Analysis of CMOS Inverter using CMOS 180nm Technology (Nov 2022)** ](https://github.com/afzalamu/cmos-inverter-design-and-analysis-using-tsmc180nm):**
+- [**Design and Analysis of CMOS Inverter using CMOS 180nm Technology (Nov 2022)** ](https://github.com/afzalamu/cmos-inverter-design-and-analysis-using-tsmc180nm):
   - **Description:** explored MOSFET models for TSMC180nm, Analyzed strong 0/1 and weak 1/0 logic configurations through simulation.
     Designed CMOS Inverter, and analysed its voltage transfer characteristics and key design parameters like VOH, VOL, VIH,
     VIL, and the switching threshold, with its layout using Electric Binary.
