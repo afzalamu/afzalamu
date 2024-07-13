@@ -1,8 +1,5 @@
 # Hello, I'm Afzal Malik.👋
-
-## Afzal Malik - README
-
-👋 Hi, I'm Afzal Malik, Welcome to my README file! Here, you'll find information about my interests, current learning focus, collaboration opportunities, and contact details.
+Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems. My interests lie in both the analog and digital aspects of the VLSI domain, where I enjoy creating efficient and innovative solutions.
 
 ### About Me
 - Name: Afzal Malik
