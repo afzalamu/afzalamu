@@ -1,4 +1,4 @@
-# Hello, I'm Afzal Malik. Welcome to my GitHub! 👋
+# Hello, I'm Afzal Malik.👋
 
 ## Afzal Malik - README
 
