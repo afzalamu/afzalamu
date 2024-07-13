@@ -1,5 +1,5 @@
 # Hello, I'm Afzal Malik.👋
-Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems. My interests lie in both the analog and digital domains of VLSI, where I continually strive to innovate and improve.
+Welcome to my GitHub profile! I'm a passionate VLSI engineer with interest in designing circuits and systems. My interests lie in both the analog and digital domains of VLSI, where I continually strive to innovate and improve.
 
 ## 🖥️ Skills, Tools & Technologies
 
