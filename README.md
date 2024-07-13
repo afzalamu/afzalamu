@@ -28,6 +28,21 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 [![C Programming](https://img.shields.io/badge/C-Programming-orange?logo=c)](#)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-yellow?logo=microsoft)](#)
 
+## Skills, Tools & Technologies
+
+[![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue?logo=cadence)](#)
+[![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-orange?logo=xilinx)](#)
+[![Verilog HDL](https://img.shields.io/badge/Verilog-HDL-green?logo=verilog)](#)
+[![LT Spice](https://img.shields.io/badge/LT-Spice-red?logo=ltspice)](#)
+[![Electric VLSI](https://img.shields.io/badge/Electric-VLSI-purple?logo=electric)](#)
+[![Circuit Design](https://img.shields.io/badge/Circuit-Design-yellow?logo=design)](#)
+[![FPGA](https://img.shields.io/badge/FPGA-cyan?logo=fpga)](#)
+[![OPENLANE](https://img.shields.io/badge/OPENLANE-blueviolet?logo=openlane)](#)
+[![Python](https://img.shields.io/badge/Python-green?logo=python)](#)
+[![C Programming](https://img.shields.io/badge/C-Programming-orange?logo=c)](#)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-yellow?logo=microsoft)](#)
+
+
 
 ### About Me
 - Name: Afzal Malik
