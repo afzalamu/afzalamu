@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 ## 🎓 Internship
 
 - [**Analog Circuit Design Intern (June - July 2023)**](https://github.com/afzalamu/Analog-Design-Internship){:target="_blank"}
-- <a href="[https://linkedin.com/in/malik-afzal](https://github.com/afzalamu/Analog-Design-Internship)" target="_blank">**Analog Circuit Design Intern (June - July 2023)**</a>
+- [Analog Circuit Design Intern (June - July 2023)](https://github.com/afzalamu/Analog-Design-Internship){:target="_blank"}
+
 
   - **Mentor:** Dr. GS Javed, Analog Design Manager @Intel, Bangalore, India
   - **Description:** Designed basic building blocks of Analog Integrated Circuits including common-source amplifier, source follower amplifier, single-stage operational amplifier, two-stage operational amplifier, and filters using the gm over Id methodology.
