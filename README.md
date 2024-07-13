@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
   - **Mentor:** Dr. GS Javed, Analog Design Manager @Intel, Bangalore, India
   - **Description:** Designed basic building blocks of Analog Integrated Circuits including common-source amplifier, source follower amplifier, single-stage operational amplifier, two-stage operational amplifier, and filters using the gm over Id methodology.
 
+## 📚 Conference Publications
+
+- **A 5GHz Gain-Bandwidth Op-Amp in 180nm technology (May 2024)**
+  - **Conference:** 4th IEEE International Conference on VLSI Systems, Architecture, Technology, and Applications (VLSI SATA 2024)
+  - **Publication:** [Click here to view it on IEEE Xplore](https://ieeexplore.ieee.org/document/10560243)
 
 ## 📈 Projects
 
