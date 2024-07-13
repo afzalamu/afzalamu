@@ -1,5 +1,4 @@
-## Hello, I'm Afzal Malik.👋
-
+# Hello, I'm Afzal Malik.👋
 Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for designing and optimizing digital circuits and systems. My interests lie in both the analog and digital domains of VLSI, where I continually strive to innovate and improve.
 
 ## 🖥️ Skills, Tools & Technologies
@@ -18,10 +17,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 
 ## 🎓 Internship
 
-- [**Analog Circuit Design Intern (June - July 2023)**](https://github.com/afzalamu/Analog-Design-Internship){:target="_blank"}
-- [Analog Circuit Design Intern (June - July 2023)](https://github.com/afzalamu/Analog-Design-Internship){:target="_blank"}
-
-
+- [**Analog Circuit Design Intern (June - July 2023)**](https://github.com/afzalamu/Analog-Design-Internship)
   - **Mentor:** Dr. GS Javed, Analog Design Manager @Intel, Bangalore, India
   - **Description:** Designed basic building blocks of Analog Integrated Circuits including common-source amplifier, source follower amplifier, single-stage operational amplifier, two-stage operational amplifier, and filters using the gm over Id methodology.
 
@@ -29,28 +25,33 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 
 - **A 5GHz Gain-Bandwidth Op-Amp in 180nm technology (May 2024)**
   - **Conference:** 4th IEEE International Conference on VLSI Systems, Architecture, Technology, and Applications (VLSI SATA 2024)
-  - **Publication:** [Click here to view it on IEEE Xplore](https://ieeexplore.ieee.org/document/10560243){:target="_blank"}
+  - **Publication:** [Click here to view it on IEEE Xplore](https://ieeexplore.ieee.org/document/10560243)
 
 ## 📈 Projects
 
-- [**Design and FPGA Implementation of Neural Network based Digit Recognition System (Jan - May 2024)** ](https://www.linkedin.com/posts/malik-afzal_fpgaimplementation-neuralnetworkdesign-hardwaredesign-activity-7214560873271476224-Y0GQ?utm_source=share&utm_medium=member_desktop){:target="_blank"}
-  - **Description:** Design of software model of Neural Network for Handwritten Digit Recognition system using Python. Hardware realization
-    of the neural network using Verilog HDL, validating behavioral, Post synthesis & Post Implementation Simulations and
+- [**Design and FPGA Implementation of Neural Network based Digit Recognition System (Jan - May 2024)** ](https://www.linkedin.com/posts/malik-afzal_fpgaimplementation-neuralnetworkdesign-hardwaredesign-activity-7214560873271476224-Y0GQ?utm_source=share&utm_medium=member_desktop):
+  - **Description:** – Design of software model of Neural Network for Handwritten Digit Recognition system using Python. Hardware realisation
+    of the neural network using Verilog HDL, validating behavioural, Post synthesis & Post Implementation Simulations and
     then ANN is implemented on FPGA.
   - **Tools Used:** Xilinx Vivado, VS Code | **FPGA Board:** NEXYS A7 I **Languages:** Verilog HDL & Python
+  
 
-- [**Design, simulation and layout of Two-Stage Operational Amplifier (June - July 2023)** ](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology){:target="_blank"}
+- [**Design, simulation and layout of Two-Stage Operational Amplifier (June - July 2023)** ](https://github.com/afzalamu/Design-of-two-stage-operational-amplifier-at-180nm-Technology):
   - **Description:** Utilized Gm/Id methodology to design and simulate a Two-Stage Operational Amplifier in the 180 nm technology for the
     specifications: Gain >1000, Gain Bandwidth Product (GBW) > 1GHz, and Phase Margin of 50.
   - **Tools Used:** LT Spice, Analog Designer Toolbox (ADT), Electric Binary.
+  
 
-- [**Design and Analysis of CMOS Inverter using CMOS 180nm Technology (Nov 2022)** ](https://github.com/afzalamu/cmos-inverter-design-and-analysis-using-tsmc180nm){:target="_blank"}
-  - **Description:** Explored MOSFET models for TSMC180nm, Analyzed strong 0/1 and weak 1/0 logic configurations through simulation.
-    Designed CMOS Inverter, and analyzed its voltage transfer characteristics and key design parameters like VOH, VOL, VIH,
+- [**Design and Analysis of CMOS Inverter using CMOS 180nm Technology (Nov 2022)** ](https://github.com/afzalamu/cmos-inverter-design-and-analysis-using-tsmc180nm):
+  - **Description:** explored MOSFET models for TSMC180nm, Analyzed strong 0/1 and weak 1/0 logic configurations through simulation.
+    Designed CMOS Inverter, and analysed its voltage transfer characteristics and key design parameters like VOH, VOL, VIH,
     VIL, and the switching threshold, with its layout using Electric Binary.
   - **Tools Used:** LT Spice, Electric Binary.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-afzal){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-afzal)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:afzalmalik68099@gmail.com)
+
+
+
