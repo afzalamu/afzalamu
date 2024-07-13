@@ -1,4 +1,5 @@
-# About Me:
+# Hello, I'm Afzal Malik. Welcome to my GitHub! 👋
+
 ## Afzal Malik - README
 
 👋 Hi, I'm Afzal Malik, Welcome to my README file! Here, you'll find information about my interests, current learning focus, collaboration opportunities, and contact details.
