@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-afzal)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:afzalamalik68099@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:afzalmalik68099@gmail.com)
 
 
 
