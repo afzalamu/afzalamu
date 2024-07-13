@@ -15,6 +15,13 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with a love for des
 [![C Programming](https://img.shields.io/badge/C-Programming-orange?logo=c)](#)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft-Office-yellow?logo=microsoft)](#)
 
+## 🎓 Internship
+
+- **Analog Circuit Design Intern (June - July 2023)**
+  - **Mentor:** Dr. GS Javed, Analog Design Manager @Intel, Bangalore, India
+  - **Description:** Designed basic building blocks of Analog Integrated Circuits including common-source amplifier, source follower amplifier, single-stage operational amplifier, two-stage operational amplifier, and filters using the gm over Id methodology.
+
+
 ## 📈 Projects
 
 - [**Design and FPGA Implementation of Neural Network based Digit Recognition System (Jan - May 2024)** ](https://www.linkedin.com/posts/malik-afzal_fpgaimplementation-neuralnetworkdesign-hardwaredesign-activity-7214560873271476224-Y0GQ?utm_source=share&utm_medium=member_desktop):
