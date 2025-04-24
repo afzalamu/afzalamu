@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with interest in de
 - [**Design of Phase Locked Loop (PLL)(Aug - June 2025)** ](https://github.com/afzalamu/Design-of-Phase-locked-loop-for-2.4-GHz-frequency-in-180nm-Technology/tree/main):
   - **Description:** – This project included the complete design and simulation of 2.4 GHz Phase locked loop (PLL) in 180 nm Technology, targeting applications like Bluetooth and Wi-fi.
   - It included designing of PLL Blocks : NMOS based LC VCO, Frequency Divider using TSPC DFF, NAND Gate based phase frequency Detector, and Charge Pump and Loop Filter, and in the end integration of all the blocks.
-  - We successfully verified the functionality of each blocks and then of the Complete PLL calculating its settling time and lOcking behaviour.
+  - We successfully verified the functionality of each blocks and then of the Complete PLL calculating its settling time and locking behaviour.
   - **Tools Used:** LT Spice | **Technology Node: CMOS 180 nm** 
 
 - [**Design and FPGA Implementation of Neural Network based Digit Recognition System (Jan - May 2024)** ](https://www.linkedin.com/posts/malik-afzal_fpgaimplementation-neuralnetworkdesign-hardwaredesign-activity-7214560873271476224-Y0GQ?utm_source=share&utm_medium=member_desktop):
