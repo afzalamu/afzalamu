@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm a passionate VLSI engineer with interest in de
 ## 🖥️ Skills, Tools & Technologies
 
 [![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue?logo=cadence)](#)
+[![LT Spice](https://img.shields.io/badge/LT-Spice-red?logo=ltspice)](#)
+[![Glade (Layout)](https://img.shields.io/badge/Glade-red?logo=Glade)](#)
 [![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado-orange?logo=xilinx)](#)
 [![Verilog HDL](https://img.shields.io/badge/Verilog-HDL-green?logo=verilog)](#)
-[![LT Spice](https://img.shields.io/badge/LT-Spice-red?logo=ltspice)](#)
 [![Electric VLSI](https://img.shields.io/badge/Electric-VLSI-purple?logo=electric)](#)
 [![Circuit Design](https://img.shields.io/badge/Circuit-Design-yellow?logo=design)](#)
 [![FPGA](https://img.shields.io/badge/FPGA-cyan?logo=fpga)](#)
